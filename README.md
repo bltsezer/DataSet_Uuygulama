@@ -1,1 +1,1 @@
-#Veri setleri test etme
+# Veri setleri test etme
